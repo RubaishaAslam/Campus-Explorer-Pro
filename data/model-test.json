@@ -1,0 +1,132 @@
+{
+  "users" : {
+    "root" : {
+      "type" : "admin",
+      "userid" : "root",
+      "password" : "root_password",
+      "alias" : "SuperGirl",
+      "favs" : [ ]
+    },
+    "user" : {
+      "type" : "general",
+      "userid" : "user",
+      "password" : "user_password",
+      "alias" : "RegularUser",
+      "favs" : [ ]
+    }
+  },
+  "buildings" : {
+    "Health Science Building" : {
+      "code" : "HSB",
+      "name" : "Health Science Building",
+      "floorMaps" : [ {
+        "name" : "Ground Floor",
+        "filePath" : "data/floormaps/HSB-groundfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Second Floor",
+        "filePath" : "data/floormaps/HSB-secondfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Third Floor",
+        "filePath" : "data/floormaps/HSB-thirdfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Fourth Floor",
+        "filePath" : "data/floormaps/HSB-fourthfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      } ]
+    },
+    "Middlesex College" : {
+      "code" : "MC",
+      "name" : "Middlesex College",
+      "floorMaps" : [ {
+        "name" : "Ground Floor",
+        "filePath" : "data/floormaps/MC-groundfloor.png",
+        "pois" : [ {
+          "owner" : "user",
+          "pos" : {
+            "xpos" : 3,
+            "ypos" : 4
+          },
+          "favCount" : 0,
+          "roomNum" : "5",
+          "locDesc" : "south",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "lable",
+          "classification" : "class",
+          "filePath" : "data/images/map-pin.jpeg",
+          "layers" : null,
+          "tags" : null
+        }, {
+          "owner" : "user",
+          "pos" : {
+            "xpos" : 10,
+            "ypos" : 44
+          },
+          "favCount" : 0,
+          "roomNum" : "5",
+          "locDesc" : "south",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "lable",
+          "classification" : "class",
+          "filePath" : "data/images/map-pin.jpeg",
+          "layers" : null,
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "First Floor",
+        "filePath" : "data/floormaps/MC-firstfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Second Floor",
+        "filePath" : "data/floormaps/MC-secondfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Third Floor",
+        "filePath" : "data/floormaps/MC-thirdfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Fourth Floor",
+        "filePath" : "data/floormaps/MC-fourthfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      } ]
+    },
+    "Western Science Center" : {
+      "code" : "WSC",
+      "name" : "Western Science Center",
+      "floorMaps" : [ {
+        "name" : "Ground Floor",
+        "filePath" : "data/floormaps/WSC-groundfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Second Floor",
+        "filePath" : "data/floormaps/WSC-secondfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Third Floor",
+        "filePath" : "data/floormaps/WSC-thirdfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Fourth Floor",
+        "filePath" : "data/floormaps/WSC-fourthfloor.png",
+        "pois" : [ ],
+        "allFavPois" : [ ]
+      } ]
+    }
+  }
+}

@@ -1,0 +1,2084 @@
+{
+  "users" : {
+    "root" : {
+      "type" : "admin",
+      "userid" : "root",
+      "password" : "root_password",
+      "alias" : "SuperGirl",
+      "favs" : [ ]
+    },
+    "user" : {
+      "type" : "general",
+      "userid" : "user",
+      "password" : "user_password",
+      "alias" : "RegularUser",
+      "favs" : [ ]
+    }
+  },
+  "buildings" : {
+    "Health Science Building" : {
+      "code" : "HSB",
+      "name" : "Health Science Building",
+      "floorMaps" : [ {
+        "name" : "Ground Floor",
+        "filePath" : "data/floormaps/HSB-groundfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 845,
+            "xpos" : 446
+          },
+          "favCount" : 0,
+          "roomNum" : "09",
+          "locDesc" : "The Lecture Room has a seating capacity of 50 people with double tables and movable chairs. It also has a 32-ft fixed whiteboard and two 8-ft motorized projection screens. The room can be used for exams with a capacity of 25 people and can accommodate up to 17 people while adhering to social distancing guidelines. The room has a portable lectern, and motorized blinds for natural lighting and privacy control.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom09",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 555,
+            "xpos" : 412
+          },
+          "favCount" : 0,
+          "roomNum" : "11",
+          "locDesc" : "The Lecture Room has a seating capacity of 50 people with a continuous table and fixed chairs. It also has a 24-ft fixed whiteboard and two 8-ft motorized projection screens. The room can be used for exams with a capacity of 25 people and can accommodate up to 9 people while adhering to social distancing guidelines. The room has a portable lectern and motorized blinds for natural lighting and privacy control.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom11",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 288,
+            "xpos" : 1035
+          },
+          "favCount" : 0,
+          "roomNum" : "35",
+          "locDesc" : "The Lecture Room has a seating capacity of 142 people with a continuous table and fixed chairs. It has 24-ft vertical sliding whiteboards and two 10-ft motorized projection screens. The room can be used for exams with a capacity of 74 people and can accommodate up to 26 people while adhering to social distancing guidelines. The room has a portable lectern and no windows.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom35",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 645,
+            "xpos" : 1439
+          },
+          "favCount" : 0,
+          "roomNum" : "40",
+          "locDesc" : "The Lecture Room is a large, spacious room with a seating capacity of 500 people. The room is designed with theatre seating and tab arm to maximize the audience's comfort during lectures and presentations. The room has a 30-ft sliding whiteboard and two motorized projection screens, with one measuring 12-ft and the other 10-ft in size, to ensure all attendees can clearly view the presentation materials. The room can be used for exams with a capacity of 125 people and can accommodate up to 67 people while adhering to social distancing guidelines. The room also includes a portable lectern and motorized blinds for natural lighting and privacy control.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom40",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 717,
+            "xpos" : 356
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell02",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 706,
+            "xpos" : 258
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit and entry way to HSB ground floor.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit04",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Entry", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 781,
+            "xpos" : 311
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit and entry way to HSB ground floor.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit03",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Entry", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 974,
+            "xpos" : 1068
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit and entry way to HSB ground floor.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit02",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Entry", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 940,
+            "xpos" : 1269
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit and entry way to HSB ground floor.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit01",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit", "Entry" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 372,
+            "xpos" : 561
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit and entry way to HSB ground floor.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit05",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Entry", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 212,
+            "xpos" : 859
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit and entry way to HSB ground floor.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit06",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Entry", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 284,
+            "xpos" : 1236
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit and entry way to HSB ground floor.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit07",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Entry", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 929,
+            "xpos" : 858
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit and entry way to HSB ground floor.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit02",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Entry", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 811,
+            "xpos" : 1141
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Main stairwell",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell01",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 482,
+            "xpos" : 1134
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairwell",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell03",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 836,
+            "xpos" : 777
+          },
+          "favCount" : 0,
+          "roomNum" : "15",
+          "locDesc" : "Tim Hortons, Baked Goods & Soups - Always Fresh. Debit, Visa & Master Card accepted! Open from 7:30 AM to 3:00PM.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Tim Hortons",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Second Floor",
+        "filePath" : "data/floormaps/HSB-secondfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 521,
+            "xpos" : 1404
+          },
+          "favCount" : 0,
+          "roomNum" : "236",
+          "locDesc" : "The Lecture Room is a spacious and well-designed room that can accommodate up to 150 people comfortably. With a continuous table and fixed chairs, attendees can enjoy a comfortable seating experience. The room also features a 20-ft sliding whiteboard, which provides ample space for displaying lecture notes and diagrams, and two 8-ft motorized projection screens for multimedia presentations. It can also serve as an exam room with a capacity of 80 people. In compliance with social distancing guidelines, the room can accommodate up to 26 people. The room also has a portable lectern and motorized blinds to provide natural lighting and privacy control. Overall, the Lecture Room is an ideal space for educational lectures, seminars, and other academic events.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom236",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 770,
+            "xpos" : 1401
+          },
+          "favCount" : 0,
+          "roomNum" : "240",
+          "locDesc" : "The Lecture Room is a spacious and well-equipped room with a seating capacity of 150 people. The room has a continuous table and fixed chairs for attendees' comfort, and a 20-ft sliding whiteboard to display lecture notes and diagrams. It also has two 8-ft motorized projection screens for displaying multimedia presentations. The room can be used for exams with a capacity of 80 people, and in compliance with social distancing guidelines, it can accommodate up to 27 people. The room features a portable lectern and motorized blinds for privacy control and to regulate natural lighting. Overall, the Lecture Room is ideal for educational seminars, presentations, and other academic events.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom240",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 700,
+            "xpos" : 327
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairway",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell02",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 890,
+            "xpos" : 1179
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairway",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell01",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 882,
+            "xpos" : 1229
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairway",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairway07",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 470,
+            "xpos" : 1118
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairway",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairway03",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 395,
+            "xpos" : 1272
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairwell",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell06",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Third Floor",
+        "filePath" : "data/floormaps/HSB-thirdfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 663,
+            "xpos" : 1348
+          },
+          "favCount" : 0,
+          "roomNum" : "322",
+          "locDesc" : "Classroom with the highest capacity on the third floor of Heath Science Building",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom 322",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 467,
+            "xpos" : 1120
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairwell located near the washrooms on third floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell03",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 714,
+            "xpos" : 334
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairwell located on the west side of third floor ",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 669,
+            "xpos" : 1081
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Elevator is located on third floor, next to Elevator 2. ",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Elevator1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 671,
+            "xpos" : 1136
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Elevator located on third floor, next to Elevator1",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Elevator2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Fourth Floor",
+        "filePath" : "data/floormaps/HSB-fourthfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 670,
+            "xpos" : 1085
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Elevator located on fourth floor, next to Elevator 2",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Elevator1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 668,
+            "xpos" : 1134
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Elevator located on fourth floor, next to Elevator1",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Elevator2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 472,
+            "xpos" : 1120
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairwell located near the washrooms on fourth floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell3",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 709,
+            "xpos" : 331
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairwell located on fourth floor on the west side of the building",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 823,
+            "xpos" : 978
+          },
+          "favCount" : 0,
+          "roomNum" : "402B",
+          "locDesc" : "Lab room Located on the fourth floor of Health Science Building",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Lab 402B",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Labs" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      } ]
+    },
+    "Middlesex College" : {
+      "code" : "MC",
+      "name" : "Middlesex College",
+      "floorMaps" : [ {
+        "name" : "Ground Floor",
+        "filePath" : "data/floormaps/MC-groundfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 196,
+            "xpos" : 1042
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "This is the outdoor seating area for the Grad Club Restaurant",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Grad Club Patio",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 296,
+            "xpos" : 1087
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main exit between Grad Club and the Patio",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit 7",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 348,
+            "xpos" : 941
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Secondary exit between Grad Club and the Patio. Also has handicapped accomodation.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit 6",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 381,
+            "xpos" : 1078
+          },
+          "favCount" : 0,
+          "roomNum" : "19",
+          "locDesc" : "Main Restaurant in Middlesex College",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Grad Club",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 433,
+            "xpos" : 808
+          },
+          "favCount" : 0,
+          "roomNum" : "18",
+          "locDesc" : "Wating area for the Grad Club kitchen",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Servery",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 539,
+            "xpos" : 737
+          },
+          "favCount" : 0,
+          "roomNum" : "18A",
+          "locDesc" : "Grade Club Kitchen",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Kitchen",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 567,
+            "xpos" : 601
+          },
+          "favCount" : 0,
+          "roomNum" : "17",
+          "locDesc" : "Social Distancing Capacity: 7, Seating Capacity: 48, Room Type: Lecture",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom 1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 643,
+            "xpos" : 775
+          },
+          "favCount" : 0,
+          "roomNum" : "6",
+          "locDesc" : "Classroom for working in",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 690,
+            "xpos" : 672
+          },
+          "favCount" : 0,
+          "roomNum" : "8",
+          "locDesc" : "Classroom for working in",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 577,
+            "xpos" : 1190
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main elevator in Middlesex being in the middle of the building.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Elevator A",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 801,
+            "xpos" : 1677
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Only elevator with access to the fourth floor of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Ground Floor Elevator C",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 921,
+            "xpos" : 1885
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Stairwell for the east tower of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Ground Floor Stairwell 5",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 558,
+            "xpos" : 907
+          },
+          "favCount" : 0,
+          "roomNum" : "4C",
+          "locDesc" : "Unisex washroom on the ground floor of middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Unisex Washroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 675,
+            "xpos" : 915
+          },
+          "favCount" : 0,
+          "roomNum" : "5B",
+          "locDesc" : "Largest men's washroom in middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Ground Floor Men's Washroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 630,
+            "xpos" : 961
+          },
+          "favCount" : 0,
+          "roomNum" : "4B",
+          "locDesc" : "Large washroom on the ground floor of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Ground Floor Women's Washroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 841,
+            "xpos" : 1722
+          },
+          "favCount" : 0,
+          "roomNum" : "r28E",
+          "locDesc" : "Small washroom for men on the ground floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Ground Floor Men's Washroom 2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 897,
+            "xpos" : 178
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main stairwell for the west tower of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Ground Floor Stairwell 1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 825,
+            "xpos" : 470
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Commonly used stairwell in the middle of the west branch of Middlesex College",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Ground Floor Stairwell 2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 610,
+            "xpos" : 1290
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main starwell for accessing the east branch of Middlesex. Gives access to the fourth floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Ground Floor Stariwell 3",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "First Floor",
+        "filePath" : "data/floormaps/MC-firstfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 721,
+            "xpos" : 235
+          },
+          "favCount" : 0,
+          "roomNum" : "105B",
+          "locDesc" : "Social Distancing Capacity: 20, Seating Capacity: 144, Room Type: Lecture",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom 2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 405,
+            "xpos" : 1081
+          },
+          "favCount" : 0,
+          "roomNum" : "110",
+          "locDesc" : "Social Distancing Capacity: 50, Seating Capacity: 380, Room Type: Lecture",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom 3",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 578,
+            "xpos" : 1189
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main elevator of Middlesex, in the center of the building",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "First Floor Elevator A",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 812,
+            "xpos" : 1687
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Only elevator with access to the fourth floor of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "First Floor Elevator C",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 924,
+            "xpos" : 1887
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Stairwell for the east tower of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "First Floor Stairwell 5",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 626,
+            "xpos" : 889
+          },
+          "favCount" : 0,
+          "roomNum" : "100",
+          "locDesc" : "Men's washroom on the first floor of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Men's Washroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 780,
+            "xpos" : 1087
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main entrance / exit to Middlesex College",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Main Entrance",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Entry" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 850,
+            "xpos" : 1726
+          },
+          "favCount" : 0,
+          "roomNum" : "139",
+          "locDesc" : "Small women's washroom on the first floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "First Floor Women's Washroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 890,
+            "xpos" : 191
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main stairwell for the west tower of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "First Floor Stairwell 1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 819,
+            "xpos" : 460
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Commonly used stairwell in the middle of the west branch of Middlesex College",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "First Floor Stairwell 2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 952,
+            "xpos" : 116
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Large exit on the west side of the building",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit 3",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 704,
+            "xpos" : 1324
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Common Exit for those leaving room 110",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit 11",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 647,
+            "xpos" : 1288
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main starwell for accessing the east branch of Middlesex. Gives access to the fourth floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "First Floor Stairwell 3",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 893,
+            "xpos" : 513
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Large exit on the west branch of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit 2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 861,
+            "xpos" : 1653
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Small exit on the west branch of the building",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit 10",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 958,
+            "xpos" : 1952
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Large exit in the east tower of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit 7",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Second Floor",
+        "filePath" : "data/floormaps/MC-secondfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 839,
+            "xpos" : 394
+          },
+          "favCount" : 0,
+          "roomNum" : "220",
+          "locDesc" : "Collaborative Space for students to use",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Collaborative Space 1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "CSpaces" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 730,
+            "xpos" : 411
+          },
+          "favCount" : 0,
+          "roomNum" : "239",
+          "locDesc" : "Collaborative Space for students to use",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Collaborative Space 2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "CSpaces" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 778,
+            "xpos" : 194
+          },
+          "favCount" : 0,
+          "roomNum" : "230",
+          "locDesc" : "Capacity:  24, Room Type: Lab, Workstations:  Intel Core i5; 16 GB RAM; SSD",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Computer Lab 1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Labs" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 731,
+            "xpos" : 300
+          },
+          "favCount" : 0,
+          "roomNum" : "235",
+          "locDesc" : "Capacity:  24, Room Type: Lab, Workstations:  Intel Core i5; 16 GB RAM; SSD",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Computer Lab 2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Labs" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 615,
+            "xpos" : 537
+          },
+          "favCount" : 0,
+          "roomNum" : "roomNum",
+          "locDesc" : "Capacity:  27, Room Type: Lab, Workstations:  Intel Core i5; 8 GB RAM; HDD",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Computer Lab 2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Labs" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 563,
+            "xpos" : 651
+          },
+          "favCount" : 0,
+          "roomNum" : "244",
+          "locDesc" : "Capacity:  30, Room Type: Lab",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Computer Lab 4",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Labs" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 574,
+            "xpos" : 1191
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main elevator of Middlesex, in the center of the building",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Second Floor Elevator A",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 802,
+            "xpos" : 1679
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Only elevator with access to the fourth floor of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Second Floor Elevator C",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 920,
+            "xpos" : 1890
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Stairwell for the east tower of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Second Floor Stairwell 5",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 648,
+            "xpos" : 909
+          },
+          "favCount" : 0,
+          "roomNum" : "205",
+          "locDesc" : "Largest women's washroom in Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Women's Washroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 841,
+            "xpos" : 1722
+          },
+          "favCount" : 0,
+          "roomNum" : "278",
+          "locDesc" : "Small washroom for men on the second floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Second Floor Men's Washroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 895,
+            "xpos" : 187
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main stairwell for the west tower of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Second Floor Stairwell 1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 827,
+            "xpos" : 475
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Commonly used stairwell in the middle of the west branch of Middlesex College",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Second Floor Stairwell 2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 651,
+            "xpos" : 1284
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main starwell for accessing the east branch of Middlesex. Gives access to the fourth floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Second Floor Stairwell 3",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Third Floor",
+        "filePath" : "data/floormaps/MC-thirdfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 872,
+            "xpos" : 376
+          },
+          "favCount" : 0,
+          "roomNum" : "325",
+          "locDesc" : "Collaborative Space for Students to use.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Collaborate Space 3",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "CSpaces" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 493,
+            "xpos" : 796
+          },
+          "favCount" : 0,
+          "roomNum" : "342",
+          "locDesc" : "Capacity:  20, Room Type: Lab",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Computer Lab 5",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Labs" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 696,
+            "xpos" : 1087
+          },
+          "favCount" : 0,
+          "roomNum" : "300",
+          "locDesc" : "Capacity: 16, Room Type: Seminar Room",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom 4",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 751,
+            "xpos" : 681
+          },
+          "favCount" : 0,
+          "roomNum" : "316",
+          "locDesc" : "Capacity: 30, Room Type: Classroom",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom 5",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 825,
+            "xpos" : 554
+          },
+          "favCount" : 0,
+          "roomNum" : "320",
+          "locDesc" : "Capacity: 40, Room Type: Classroom",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom 6",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 580,
+            "xpos" : 1195
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main elevator of Middlesex, in the center of the building",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Third Floor Elevator A",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 802,
+            "xpos" : 1675
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Only elevator with access to the fourth floor of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Third Floor Elevator C",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 922,
+            "xpos" : 1887
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Stairwell for the east tower of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Third Floor Stairwell 5",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 660,
+            "xpos" : 900
+          },
+          "favCount" : 0,
+          "roomNum" : "311",
+          "locDesc" : "Men's washroom on the third floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Third Floor Men's Washroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 648,
+            "xpos" : 1344
+          },
+          "favCount" : 0,
+          "roomNum" : "388",
+          "locDesc" : "Small washroom for women on the third floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Third Floor Women's Washroom",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Restaurants" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 905,
+            "xpos" : 174
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main stairwell for the west tower of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Third Floor Stairwell 1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 843,
+            "xpos" : 482
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Commonly used stairwell in the middle of the west branch of Middlesex College",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Third Floor Stairwell 2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 650,
+            "xpos" : 1286
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main starwell for accessing the east branch of Middlesex. Gives access to the fourth floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Third Floor Stairwell 3",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Fourth Floor",
+        "filePath" : "data/floormaps/MC-fourthfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 806,
+            "xpos" : 1684
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Only elevator with access to the fourth floor of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Fourth Floor Elevator C",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 924,
+            "xpos" : 1885
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Stairwell for the east tower of Middlesex",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Fourth Floor Stairwell 5",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 638,
+            "xpos" : 1290
+          },
+          "favCount" : 0,
+          "roomNum" : "",
+          "locDesc" : "Main starwell for accessing the east branch of Middlesex. Gives access to the fourth floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Fourth Floor Stairwell 3",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      } ]
+    },
+    "Western Science Center" : {
+      "code" : "WSC",
+      "name" : "Western Science Center",
+      "floorMaps" : [ {
+        "name" : "Ground Floor",
+        "filePath" : "data/floormaps/WSC-groundfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 678,
+            "xpos" : 322
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit08",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 1009,
+            "xpos" : 999
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit07",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 1012,
+            "xpos" : 1092
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit06",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 514,
+            "xpos" : 1177
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit05",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 882,
+            "xpos" : 1259
+          },
+          "favCount" : 0,
+          "roomNum" : "63A",
+          "locDesc" : "Accessible women's bathoom",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "WomensBathroom(GF)",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 823,
+            "xpos" : 994
+          },
+          "favCount" : 0,
+          "roomNum" : "60",
+          "locDesc" : "Accessible men's bathroom",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "MensBathoom(GF)",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 464,
+            "xpos" : 909
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Accessible elevator",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "ElevatorA",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 725,
+            "xpos" : 1522
+          },
+          "favCount" : 0,
+          "roomNum" : "55",
+          "locDesc" : "Lecturing room with a capacity of 241, fixed chairs, chalk boards, and no windows.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Classroom55",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 987,
+            "xpos" : 918
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Significant stairwell",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell01",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 426,
+            "xpos" : 860
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Significant stairwell",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell03",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "First Floor",
+        "filePath" : "data/floormaps/WSC-firstfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 589,
+            "xpos" : 798
+          },
+          "favCount" : 0,
+          "roomNum" : "154A",
+          "locDesc" : "Accessible mens bathoom",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "MensBathroom(1F)",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 659,
+            "xpos" : 797
+          },
+          "favCount" : 0,
+          "roomNum" : "155",
+          "locDesc" : "Accessible women's bathoom",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "WomensBathroom(1F)",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 864,
+            "xpos" : 1127
+          },
+          "favCount" : 0,
+          "roomNum" : "181",
+          "locDesc" : "Unisex bathroom, not accessible.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Unisex Bathwoom (1F)",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 996,
+            "xpos" : 909
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Significant Ssairwell",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairwell01",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 1049,
+            "xpos" : 838
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit01",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit", "Entry" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 475,
+            "xpos" : 899
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Accessible elevator",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "ElevatorA",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 516,
+            "xpos" : 909
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit03",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit", "Entry" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 509,
+            "xpos" : 257
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Exit",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Exit02",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Exit", "Entry" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Second Floor",
+        "filePath" : "data/floormaps/WSC-secondfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 335,
+            "xpos" : 438
+          },
+          "favCount" : 0,
+          "roomNum" : "240",
+          "locDesc" : "The lecture room has a seating capacity of 78 people. The seating type is continuous table with fixed chairs. the room is eqquipped with two 6-ft motorized projection screens and motorized blinds on the windows.",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "classroom240",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Classrooms" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 474,
+            "xpos" : 911
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "the elevator to access the other floors from the second floor",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "ElevatorA",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 995,
+            "xpos" : 927
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "The second floor stairway to access the building floors ",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairway0.1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 459,
+            "xpos" : 352
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "The second stairway to navigate to different floors",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairway2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      }, {
+        "name" : "Third Floor",
+        "filePath" : "data/floormaps/WSC-thirdfloor.png",
+        "pois" : [ {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 475,
+            "xpos" : 921
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "The elevator on third floor to access the other floors",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "ElevatorA",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Elevators" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 455,
+            "xpos" : 360
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairway closer to the Bridge to B&G building ",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "stairway2",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 1005,
+            "xpos" : 920
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairway 1 to access the floors below ",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairway1",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        }, {
+          "owner" : "root",
+          "pos" : {
+            "ypos" : 932,
+            "xpos" : 863
+          },
+          "favCount" : 0,
+          "roomNum" : "N/A",
+          "locDesc" : "Stairway to access a room",
+          "type" : "type",
+          "fax" : "fax",
+          "label" : "Stairway4",
+          "classification" : "admin",
+          "filePath" : "filePath",
+          "layers" : [ "", "Stairwells" ],
+          "tags" : null
+        } ],
+        "allFavPois" : [ ]
+      } ]
+    }
+  }
+}
